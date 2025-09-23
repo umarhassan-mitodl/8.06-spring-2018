@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Theoretical Physics"
+    ]
+  ],
+  "legacy_uid": "a22f7727-cc30-0af4-3a17-359b6652aa86",
+  "instructors": {
+    "content": [
+      "8a059de4-4694-c03f-61e8-c6f0b9e8babe"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7e06e41a-ca11-8a29-6f88-1bd3c53a520f",
+    "website": "8-06-quantum-physics-iii-spring-2018"
+  },
+  "course_title": "Quantum Physics III",
+  "site_short_id": "8.06-spring-2018",
+  "course_description": "This course is a continuation of [*8.05 Quantum Physics II*](/courses/8-05-quantum-physics-ii-fall-2013/). It introduces some of the important model systems studied in contemporary physics, including two-dimensional electron systems, the fine structure of hydrogen, lasers, and particle scattering. The lectures and lecture notes for this course form the basis of Zwiebach\u2019s textbook *Mastering Quantum Mechanics* published by\u00a0{{% resource_link \"2c6a33af-fdb1-4d8f-b206-2108a492d9ba\" \"MIT Press\" %}}\u00a0in April 2022.",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.06",
+  "course_image_thumbnail": {
+    "content": "0725cf37-c5f1-70f7-6cc2-af38e7bceda8",
+    "website": "8-06-quantum-physics-iii-spring-2018"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "e7abfec3-bb7b-4ffe-9ce0-1e84d8fcc62d",
+  "site_url_path": "courses/8-06-quantum-physics-iii-spring-2018",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,74 @@
+leftnav:
+- identifier: 50bb208c-dde4-7ff9-ae06-ae940afbedcc
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b0ae3f31-a0e6-c86c-865a-303bbda038e3
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 5af733ca-5489-5b35-024a-08ee465eae89
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 5fe9f734-1f0a-3e79-04c9-183a6adf0be8
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: 7dbfa566-6c42-75ab-fc10-43882dc5419d
+  name: Video Lectures
+  pageRef: /pages/video-lectures/
+  weight: 50
+- identifier: a6852222-6ea8-a8d5-38bb-6e4b9a19b542
+  name: Time Independent Perturbation Theory
+  pageRef: /pages/video-lectures/time-independent-perturbation-theory
+  parent: 7dbfa566-6c42-75ab-fc10-43882dc5419d
+  weight: 60
+- identifier: 775ae63a-83c3-7ea9-a86b-48e338f89741
+  name: Time Dependent Perturbation Theory
+  pageRef: /pages/video-lectures/time-dependent-perturbation-theory
+  parent: 7dbfa566-6c42-75ab-fc10-43882dc5419d
+  weight: 70
+- identifier: 85d41ba6-acb8-505b-da8c-13ca1903dfca
+  name: Scattering and Identical Particles
+  pageRef: /pages/video-lectures/scattering-and-identical-particles
+  parent: 7dbfa566-6c42-75ab-fc10-43882dc5419d
+  weight: 80
+- identifier: 9a488145-3a8d-1268-9541-6973a7ece57b
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 90
+- identifier: 7a9328d4-e766-d2bf-34c8-47b147aad85e
+  name: Term Paper
+  pageRef: /pages/term-paper/
+  weight: 100
+- identifier: 05ca1088-e34b-f5e8-1ef7-9a53e1d6f1ba
+  name: Schedule and Due Dates
+  pageRef: /pages/term-paper/schedule-and-due-dates-for-the-paper
+  parent: 7a9328d4-e766-d2bf-34c8-47b147aad85e
+  weight: 110
+- identifier: 69dbecfa-f910-13c1-7cef-990feeb62260
+  name: Nature of the Paper
+  pageRef: /pages/term-paper/nature-of-the-paper
+  parent: 7a9328d4-e766-d2bf-34c8-47b147aad85e
+  weight: 120
+- identifier: 44da942e-db49-1d31-f419-b0564c26c27d
+  name: Possible Topics
+  pageRef: /pages/term-paper/possible-topics
+  parent: 7a9328d4-e766-d2bf-34c8-47b147aad85e
+  weight: 130
+- identifier: 8dd2e531-632f-5bef-b1a4-5eff30474ba7
+  name: Writing Tips
+  pageRef: /pages/term-paper/writing-tips
+  parent: 7a9328d4-e766-d2bf-34c8-47b147aad85e
+  weight: 140
+- identifier: 65681916-1631-8e75-2e8a-8642374de1e2
+  name: More on Peer Editing
+  pageRef: /pages/term-paper/more-on-peer-editing
+  parent: 7a9328d4-e766-d2bf-34c8-47b147aad85e
+  weight: 150
+- identifier: 4d54df96-68ab-f323-d57a-26d3e81b5eac
+  name: The LaTeX Templates
+  pageRef: /pages/term-paper/the-latex-templates
+  parent: 7a9328d4-e766-d2bf-34c8-47b147aad85e
+  weight: 160
