@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This is the third part of the video lectures.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection

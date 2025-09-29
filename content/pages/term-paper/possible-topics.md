@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section gives a list of possible topics for the paper.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Term Paper

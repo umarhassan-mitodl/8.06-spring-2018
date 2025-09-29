@@ -2,6 +2,8 @@
 content_type: page
 description: "This section explains \u201Cproblem\u201D or \u201Cphenomenon\u201D\
   \ in quantum mechanics."
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Term Paper
@@ -26,4 +28,4 @@ Papers can range between 3.5 and 7 pages in length (in the RevTeX final, two-col
 
 ### Ingredients of a good term paper
 
-Ideally, a term paper should contain some calculation and some context (historical, mathematical, physical, engineering, etc.). The {{% resource_link "d7d2fc25-6abd-41d4-95bc-a3aa3b11868a" "sample paper on reflectionless potentials" %}} does a good job of showing what level of calculations is right: enough detail for an 8.06 student to follow, but not an excessive amount. However, there are a few ways that your own papers should differ. First, this paper shows more originality than you need to: it gives a solution to a problem that has not previously been published (even if it had been “folklore” before), which is not reasonable to ask of you. On the other hand, it would be better if it gave more of a connection to a real-world scenario. Given the topic, this would be difficult, but the discussion section still gives an idea of the type of material that is good to include.
+Ideally, a term paper should contain some calculation and some context (historical, mathematical, physical, engineering, etc.). The [sample paper on reflectionless potentials](https://www.researchgate.net/publication/268178011_An_Algebraic_Approach_to_Reflectionless_Potentials_in_One_Dimension) does a good job of showing what level of calculations is right: enough detail for an 8.06 student to follow, but not an excessive amount. However, there are a few ways that your own papers should differ. First, this paper shows more originality than you need to: it gives a solution to a problem that has not previously been published (even if it had been “folklore” before), which is not reasonable to ask of you. On the other hand, it would be better if it gave more of a connection to a real-world scenario. Given the topic, this would be difficult, but the discussion section still gives an idea of the type of material that is good to include.
