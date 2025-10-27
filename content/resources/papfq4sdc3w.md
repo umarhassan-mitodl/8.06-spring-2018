@@ -4,8 +4,6 @@ description: ''
 file: /courses/8-06-quantum-physics-iii-spring-2018/3a1b780823402f98a7983cee3cc96f21_papfq4sdC3w.srt
 file_size: 19997
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

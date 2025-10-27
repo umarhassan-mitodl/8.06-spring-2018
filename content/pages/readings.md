@@ -2,8 +2,6 @@
 content_type: page
 description: This section lists the required text and other other books which you
   may find helpful in understanding quantum mechanics.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
