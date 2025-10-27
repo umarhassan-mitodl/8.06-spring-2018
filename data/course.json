@@ -28,9 +28,8 @@
     "website": "8-06-quantum-physics-iii-spring-2018"
   },
   "course_title": "Quantum Physics III",
-  "hide_download": true,
   "site_short_id": "8.06-spring-2018",
-  "course_description": "This course is a continuation of [*8.05 Quantum Physics II*](/courses/8-05-quantum-physics-ii-fall-2013/). It introduces some of the important model systems studied in contemporary physics, including two-dimensional electron systems, the fine structure of hydrogen, lasers, and particle scattering. The lectures and lecture notes for this course form the basis of Zwiebach\u2019s textbook *Mastering Quantum Mechanics* published by\u00a0[MIT Press](https://mitpress.mit.edu/books/mastering-quantum-mechanics)\u00a0in April 2022.",
+  "course_description": "This course is a continuation of [*8.05 Quantum Physics II*](/courses/8-05-quantum-physics-ii-fall-2013/). It introduces some of the important model systems studied in contemporary physics, including two-dimensional electron systems, the fine structure of hydrogen, lasers, and particle scattering. The lectures and lecture notes for this course form the basis of Zwiebach\u2019s textbook *Mastering Quantum Mechanics* published by\u00a0{{% resource_link \"e79985b9-7f64-455c-bf48-95044885f5c3\" \"MIT Press\" %}}\u00a0in April 2022.",
   "department_numbers": [
     "8"
   ],
@@ -40,7 +39,6 @@
     "content": "0725cf37-c5f1-70f7-6cc2-af38e7bceda8",
     "website": "8-06-quantum-physics-iii-spring-2018"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",
